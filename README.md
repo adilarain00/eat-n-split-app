@@ -1,4 +1,4 @@
-# Eat'n Split: React App
+# Eat'n Split: The React App
 
 <img src="./public/Eat&apos;nSplit.PNG" style="height: 400px; width: 100%; border-radius: 10px" />
 
