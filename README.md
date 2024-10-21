@@ -2,6 +2,8 @@
 
 <img src="./public/Eat&apos;nSplit.PNG" style="height: 400px; width: 100%; border-radius: 10px" />
 
+### Live Demo: https://adilarain00.github.io/Eat-n-Split-App
+
 ### Description.
 
 Eat'n Split is a sleek, fully responsive React.js app that helps you split bills with friends seamlessly. Built with components, prop drilling, and the useState Hook, it allows you to add friends to a list, view them in a showcase area, select a friend, and add a bill to calculate expenses.
